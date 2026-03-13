@@ -12,4 +12,4 @@ This is a cross-platform desktop application developed with **C++** and **Qt Fra
 * **IDE:** Qt Creator
 
 ## 📸 Screenshots
-![App Screenshot]()
+![App Screenshot](screenshot.png)
